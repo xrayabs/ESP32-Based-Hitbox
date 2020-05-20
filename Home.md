@@ -1,4 +1,0 @@
-Welcome to the machines wiki!
-
-==GeekBench==
-[MacBook Pro 15|https://browser.geekbench.com/v5/cpu/2234434] 
