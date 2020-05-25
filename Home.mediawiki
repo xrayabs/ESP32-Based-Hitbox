@@ -1,4 +1,5 @@
 Welcome to the machines wiki!
 
 ==GeekBench==
+[[ASUS P9X79|https://browser.geekbench.com/v5/cpu/2293488]]
 [[MacBook Pro 15|https://browser.geekbench.com/v5/cpu/2234434]]
