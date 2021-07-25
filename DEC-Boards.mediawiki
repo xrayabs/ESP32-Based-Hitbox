@@ -14,3 +14,6 @@
 *** CSR Jumpers:    A-E : 17772102
 *** Starting Address Jumpers: V-Y : FAR=256k, PSA=0
 * M8639 --- RDRX Controller (2x)
+
+QBUS22 --- H9278-A
+Power Supply --- H7864 A
