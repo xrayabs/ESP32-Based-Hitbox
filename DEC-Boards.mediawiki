@@ -7,4 +7,10 @@
 ** 1 unmarked ROM
 ** 1: 23-45[34]E4  (KDF11-BJ - MicroPDP-11/23 ROM v1.1) + Floating point chip
 * M8067 5014500C L4
-* M8639 --- RDRX Controller
+** 512k
+*** CSR Jumpers: 17772100
+*** Starting Address Jumpers : FAR=0, PSA=0
+** 512k
+*** CSR Jumpers:    A-E : 17772102
+*** Starting Address Jumpers: V-Y : FAR=256k, PSA=0
+* M8639 --- RDRX Controller (2x)
