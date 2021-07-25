@@ -5,6 +5,6 @@
 * M7621 --- 8M RAM FOR KA650 (MICROVAX III)
 * M8189 5014313 C KDF11-B (2x)  
 ** 1 unmarked ROM
-** 1: 23-45[34]E4  (KDF11-BJ - MicroPDP-11/23 ROM v1.1)
+** 1: 23-45[34]E4  (KDF11-BJ - MicroPDP-11/23 ROM v1.1) + Floating point chip
 * M8067 5014500C L4
 * M8639 --- RDRX Controller
