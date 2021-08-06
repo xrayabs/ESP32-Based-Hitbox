@@ -1,6 +1,8 @@
 Welcome to the machines wiki!
 
 ==GeekBench==
-* [[ASUS P9X79|https://browser.geekbench.com/v5/cpu/2293488]]
-* [[MacBook Pro 15|https://browser.geekbench.com/v5/cpu/2234434]]
-* [[Mac Pro|https://browser.geekbench.com/v5/cpu/9193605]]
+* [[ASUS P9X79|https://browser.geekbench.com/v5/cpu/2293488]] 863 / 4945
+* [[MacBook Pro 15|https://browser.geekbench.com/v5/cpu/2234434]] 809 / 3136
+* [[Mac Pro|https://browser.geekbench.com/v5/cpu/9193605]] 670 / 6341
+* [[Dell Latitude 5580|https://browser.geekbench.com/v5/cpu/9194593]] 767 / 2676
+
