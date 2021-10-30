@@ -1,2 +1,5 @@
 == Open Firmware ==
 Press [option][command][o][f] during boot
+
+== Installing from DVD ==
+Drive is CD-RW.  dd Install DVD to USB drive.  Pressing [c] during boot works, but only if no OS is installed.
