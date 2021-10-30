@@ -4,5 +4,5 @@ Press [option][command][o][f] during boot
 == Installing from DVD ==
 Drive is CD-RW.  dd Install DVD to USB drive.  Pressing [c] during boot works, but only if no OS is installed.
 
-The following worked:
+The following worked Flash drive image of DVD inserted in frontmost USB slot (beside display port) :
 * boot usb0/disk1:3,\\:tbxi
