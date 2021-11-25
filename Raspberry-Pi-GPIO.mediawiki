@@ -60,3 +60,8 @@ pi@rpi2b-1:/sys/class/gpio $ gpio readall
  | BCM | wPi |   Name  | Mode | V | Physical | V | Mode | Name    | wPi | BCM |
  +-----+-----+---------+------+---+---Pi 3B+-+---+------+---------+-----+-----+
 </pre>
+=== Footnote ===
+<pre>
+pi@rpi2b-1:/sys/class/gpio $ dpkg -S `which gpio`
+wiringpi: /usr/bin/gpio
+</pre>
