@@ -1,5 +1,6 @@
+* M3106 --- 4 line async
 * M7555 ---RXDQ3 Controller
-* M7516 --- DELQA M7516 Q-Bus Ethernet Controller
+* M7516 --- (2x) DELQA M7516 Q-Bus Ethernet Controller
 * M7606 --- KA630-AA, KA630-BA: MicroVAX II CPU
 * M7620 --- KA650-AA/BA MicroVAX III CPU (-AA full license, -BA workstation license), 90nS. Refs: EK-KA650-UG
 * M7621 --- 8M RAM FOR KA650 (MICROVAX III)
@@ -14,7 +15,8 @@
 *** CSR Jumpers:    A-E : 17772102
 *** Starting Address Jumpers: V-Y : FAR=256k, PSA=0
 * M8639 --- RDRX Controller (2x)
-
+== Non-DEC ==
+* Distributed Logic SQ7[03A] Rev[G]
 
 BA23
 * QBUS22 --- H9278-A
