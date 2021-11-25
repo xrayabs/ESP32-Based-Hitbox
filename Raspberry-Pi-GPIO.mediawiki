@@ -29,7 +29,7 @@ pi@rpi2b-1:/sys/class/gpio $ gpio readall
  +-----+-----+---------+------+---+---Pi 2---+---+------+---------+-----+-----+
 `
 == Model 3 B+ ==
-`
+<pre>
 pi@raspberrypi:/sys/class/gpio $ ls
 export  gpiochip0  gpiochip504  unexport
 pi@raspberrypi:/sys/class/gpio $ raspi-gpio get
@@ -90,4 +90,4 @@ GPIO 50: level=1 fsel=4 alt=0 func=SD0_DAT0
 GPIO 51: level=1 fsel=4 alt=0 func=SD0_DAT1
 GPIO 52: level=1 fsel=4 alt=0 func=SD0_DAT2
 GPIO 53: level=1 fsel=4 alt=0 func=SD0_DAT3
-`
+</pre>
