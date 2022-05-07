@@ -6,3 +6,5 @@ Welcome to the machines wiki!
 * [[Mac Pro|https://browser.geekbench.com/v5/cpu/9193605]] 670 / 6341
 * [[Dell Latitude 5580|https://browser.geekbench.com/v5/cpu/9194593]] 767 / 2676
 * [[Lenovo Thinkstation S20|https://browser.geekbench.com/v5/cpu/13809750]] 560 / 2261
+
+[[Cabinets]]
