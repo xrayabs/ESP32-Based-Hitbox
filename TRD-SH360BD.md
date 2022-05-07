@@ -1,0 +1,1 @@
+[specs](http://koyoele.in/specs/encoder/light-duty.pdf)
