@@ -8,3 +8,5 @@ Welcome to the machines wiki!
 * [[Lenovo Thinkstation S20|https://browser.geekbench.com/v5/cpu/13809750]] 560 / 2261
 
 [[Cabinets]]
+
+[[Outback]]
