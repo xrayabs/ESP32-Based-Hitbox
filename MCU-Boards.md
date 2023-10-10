@@ -1,6 +1,6 @@
 |   |Model           |MCU|WiFi|BLE|
 |---|---|---|---|---|
-|4x|Raspberry Pi Pico|RP2040|||
+|4x|[Raspberry Pi Pico](https://www.raspberrypi.com/products/raspberry-pi-pico/)|RP2040|||
 ||MGM240 Thing Plus|[MGM240](https://www.silabs.com/wireless/zigbee/efr32mg24-series-2-modules/device.mgm240pa22vna)||5.3|
 ||RP2040 Thing Plus|RP2040|||
 ||Feather RP2040|RP2040|||
