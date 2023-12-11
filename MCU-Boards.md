@@ -7,3 +7,4 @@
 ||[FeatherS2](https://feathers2.io/)|ESP32 S2|2.4GHz b/g/n||
 ||SAM51 Thing Plus|SAM51|||
 |2x|[Arduino Nano 33 BLE](https://store.arduino.cc/products/arduino-nano-33-ble)|[nRF52840](https://www.nordicsemi.com/Products/nRF52840)||5.3|
+||[PCA10056](https://infocenter.nordicsemi.com/pdf/nRF52840_DK_User_Guide_20201203.pdf|[nRF52840](https://www.nordicsemi.com/Products/nRF52840)||5.3|
